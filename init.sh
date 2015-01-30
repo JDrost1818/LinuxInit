@@ -6,7 +6,7 @@
 #   (3) - Ruby/Rails/rbenv
 #   (4) - Java
 
-./text_editors/install_atom.sh
+./text_editors/atom/install_atom.sh
 ./web_browsers/install_chrome.sh
 ./programming/install_ruby_rails.sh
 sudo apt-get -y install default-jdk
