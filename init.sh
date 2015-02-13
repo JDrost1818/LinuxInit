@@ -9,4 +9,4 @@
 ./text_editors/atom/install_atom.sh
 ./web_browsers/install_chrome.sh
 ./programming/install_ruby_rails.sh
-sudo apt-get -y install default-jdk
+./programming/install_java.sh
